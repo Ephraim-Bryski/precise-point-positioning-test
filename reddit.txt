@@ -1,0 +1,8 @@
+I'm trying to get accurate position tracking on my phone with post-processed precise point positioning. These are the steps I'm taking:
+
+1. Use GNSSLogger to create a RINEX observation file. These are the menu options I chose: https://github.com/Ephraim-Bryski/precise-point-positioning-test/blob/master/supplementary%20photos/sensorlogger%20menu.png
+2. For comparison, I used SensorLogger to collect GPS data.
+3. Walked in an open area in a roughly 200 foot range for approximately an hour.
+4. About a week later, I post-processed the RINEX data with Canada's RNCAN tool: https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp.php. These are the menu options I chose: https://github.com/Ephraim-Bryski/precise-point-positioning-test/blob/master/supplementary%20photos/rncan%20processing%20menu.png
+5. In under an hour, I got the output from RNCAN. It gave me warnings: https://github.com/Ephraim-Bryski/precise-point-positioning-test/blob/master/supplementary%20photos/rncan%20email%20output%20warnings.png. The output data is saved here: https://github.com/Ephraim-Bryski/precise-point-positioning-test/tree/master/rncan%20full_output
+6. I plotted the GPS data and PPP data
