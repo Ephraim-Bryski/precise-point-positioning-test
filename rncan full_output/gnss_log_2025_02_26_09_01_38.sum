@@ -1,0 +1,103 @@
+HDR GRP CANADIAN GEODETIC SURVEY, SURVEYOR GENERAL BRANCH, NATURAL RESOURCES CANADA
+HDR EMA geodeticinformation-informationgeodesique@nrcan-rncan.gc.ca
+VER 4.16.0 (2025-02-28)
+NOW 2025-03-12 01:47:44.00
+RNX gnss_log_2025_02_26_09_01_38.25o
+MKR Google GnssLogger
+MOD KINEMATIC
+BEG 2025-02-26 14:01:58.41
+END 2025-02-26 15:18:51.41
+INT 1.00
+EPO 4100 4590 4616
+EXE 12 sec
+OBS G C1C
+OBS R C1C
+PAR TYPE         SYS SIG SAT INIT      NOISE
+PAR POS_X                    1.000e+10 1.000e+10
+PAR POS_Y                    1.000e+10 1.000e+10
+PAR POS_Z                    1.000e+10 1.000e+10
+PAR RX_CLK       G           1.000e+10 1.000e+10
+PAR RX_CLK       R           1.000e+10 1.000e+10
+PAR RX_USD       G   C1C     1.000e+10 1.000e+10
+PAR RX_USD       R   C1C     1.000e+10 1.000e+10
+PAR STEC         G       ALL 1.000e+10 3.000e-02
+PAR STEC         R       ALL 1.000e+10 3.000e-02
+SP3 EMR0DUARAP_20250570000_01D_05M_ORB.SP3
+CLK EMR0DUARAP_20250570000_01D_30S_CLK.CLK
+ERP EMR0DUARAP_20250570000_01D_01D_ERP.ERP
+BIA EMR0DUARAP_20250570000_01D_01D_OSB.BIA
+ADV EMR0DUARAP_20250570000_01D_01D_ADV.ADV
+ATX igs20_2353_nrcan.atx
+GIM EMR0DCBRAP_20250570000_01D_01H_ION.SHC
+VMF [ah|aw|zh|zw]25057.h12
+VMF [ah|aw|zh|zw]25057.h18
+SNX igs_satellite_metadata.snx
+ELV 7.5
+TZD VMF1
+REC GnssLogger
+ANT NOT FOUND
+ARP    0.000    0.000    0.000
+IAR 0.00%
+AVF 1.000
+APR PPP
+ELL GRS80
+POS CRD  SYST        EPOCH          A_PRIORI
+POS   X NAD83 25:057:50518      1335545.5717
+POS   Y NAD83 25:057:50518     -4648979.8064
+POS   Z NAD83 25:057:50518      4143434.9119
+POS LAT NAD83 25:057:50518    40 46 26.17645
+POS LON NAD83 25:057:50518   -73 58 18.66740
+POS HGT NAD83 25:057:50518          -14.0491
+RES G C1C  19.547
+RES R C1C  48.409
+RES ELV        G_C1C   R_C1C 
+RES ELV  5.0  62.575 249.629 
+RES ELV 15.0  27.059  52.617 
+RES ELV 25.0  14.351  24.339 
+RES ELV 35.0  10.251  21.832 
+RES ELV 45.0   9.188  20.180 
+RES ELV 55.0   8.904  12.969 
+RES ELV 65.0   7.766  12.297 
+RES ELV 75.0   6.501   0.000 
+RES ELV 85.0   3.255   0.000 
+FLG PRN    EPO    TRK    CLK    EPH    ELV    YAW    DCB    SLP    MIS    RES
+FLG E03      0      0      0      0      0      0      0      0      0      0
+FLG E04      0      0      0      0      0      0      0      0      0      0
+FLG E05      0      0      0      0      0      0      0      0      0      0
+FLG E06      0      0      0      0      0      0      0      0      0      0
+FLG E09      0      0      0      0      0      0      0      0      0      0
+FLG E10      0      0      0      0      0      0      0      0      0      0
+FLG E12      0      0      0      0      0      0      0      0      0      0
+FLG E16      0      0      0      0      0      0      0      0      0      0
+FLG E23      0      0      0      0      0      0      0      0      0      0
+FLG E24      0      0      0      0      0      0      0      0      0      0
+FLG E25      0      0      0      0      0      0      0      0      0      0
+FLG E26      0      0      0      0      0      0      0      0      0      0
+FLG E31      0      0      0      0      0      0      0      0      0      0
+FLG E33      0      0      0      0      0      0      0      0      0      0
+FLG G02    503      0      0      0     74      0      0      0      0      0
+FLG G04   3450      0     45      0      0      0      0      0      0      0
+FLG G07   3728      0     45      0      0      0      0      0      0      0
+FLG G08   3654      0     45      0      0      0      0      0      0      0
+FLG G09   3680      0     47      0      0      0      0      0      0      0
+FLG G16   3701      0     38      0      0      0      0      0      0      0
+FLG G18   1238      0     37      0    323      0      0      0      0      0
+FLG G26   2246      0     46      0      6      0      0      0      0      0
+FLG G27   3715      0     36      0      0      0      0      0      0      0
+FLG G30    578      0      0      0     79      0      0      0      0      0
+FLG G31    917      0     14      0     27      0      0      0      0      0
+FLG R01    265      0      0      0    125      0      0      0      0      0
+FLG R06      0      0     13      0      0      0      0      0      0      0
+FLG R07   2646      0      0      0      0      0      0      0      0      0
+FLG R08   2666      0      0      0      0      0      0      0      0      0
+FLG R09   3569      0      0      0      0      0      0      0      0      0
+FLG R10      0      0   2581      0      0      0      0      0      0      0
+FLG R11    341      0      0      0      0      0      0      0      0      0
+FLG R16   1487      0      0      0      0      0      0      0      0      0
+FLG R17      0      0      0      0      1      0      0      0      0      0
+FLG R18   3481      0      0      0      0      0      0      0      0      1
+FLG R19   2320      0      0      0      0      0      0      0      0      0
+FLG R20    325      0      0      0      0      0      0      0      0      0
+FLG EXX      0      0      0      0      0      0      0      0      0      0
+FLG GXX  27410      0    353      0    509      0      0      0      0      0
+FLG RXX  17100      0   2594      0    126      0      0      0      0      1

@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,moto g 5G - 2024,1740578186367,2025-02-26_13-56-26,America/New_York,android,1.41.1,4b52fca1-5da7-499e-bc89-6bd2efb14305,Orientation|Magnetometer|Compass|Location|Annotation|GameOrientation|GeomagneticOrientation,100|100|10|0||100|100,false
